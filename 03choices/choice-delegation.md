@@ -1,0 +1,9 @@
+- choice types can be delegated (you're delegating a specific decision template) - as well as delegating a single one-off decision, or more broadly delegating an entire wiki category of them
+- inverse of delegation is the delegation-negation operator (which prevents inheritence down trees you don't want)
+- depth of delegation possibly important
+- delegation must respect some kind of abstaining property
+- delegation gives a lot of interia and in-group / group-think power - decisions without a lot of discussion should trigger waking zombies
+- delegates are notified of zombies joining or leaving (e.g., follower notification)
+- a zombie voting directly is not notified to the delegate
+- a zombie may mute a delegate to not actually follow what they say (but still allow them to think they are)
+- 

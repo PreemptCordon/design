@@ -1,0 +1,24 @@
+- latest article cache
+	- doesn't include draft sections
+	- flow
+		- is the user anonymous: don't return post
+		- if user is blocked: don't return post
+		- if user isn't allowed: don't return post
+		- return post (either it's public or the user is allowed)
+- expires
+	- invite codes
+	- recovery codes
+- token buckets (surge protectors)
+	- edit buckets (per article configurable)
+		- per-article-user
+		- penalty based on amount of links in article
+		- waits are exponential so that edits are logarithmic
+	- invite buckets
+		- per group configurable
+			- per-user tracking
+- feeds
+	- discovery-result
+	- feed-result
+- jobs
+	- discovery-resolver
+	- vote-resolver

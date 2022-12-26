@@ -1,0 +1,79 @@
+a decision is a specific instance of a choice
+
+- decisions link to their parent choice template
+- decisions are basically articles
+- decisions have a due date
+	- this isn't the evaluation date (usually evaluated continuously)
+	- just the last date you can vote/change votes
+	- continuous evaluation is hidden until a minimum threshold (set by admins in the choice settings, recommend average/3)
+	- show progress bar compared to previous elections
+- facilitator considerations
+	- keep in mind, zombie retweets aren't paper ballots
+	- is there a vocal fringe outrage or does the community widely agree?
+	- are you looking for compromise, or consensus
+	- is there constructive dissent
+	- are there coalitions building
+	- is there common enough ground to get something done
+	- are both sides okay with being wrong
+- decisions assign who's allowed to
+	- facilitator group
+	- propose options (debator) (and criteria, it's also a decision)
+	- approve options (and criteria, it's also a decision)
+	- link criticisms/arguments of options & their approval
+	- make selections
+		- who can also mean whether delegated votes are allowed
+			- concensus usually doesn't allow zombies
+			- compromise usually does
+			- threshold never does
+	- what role the volunteers enter into (e.g. a candidate pool)
+		- zombies can't auto-volunteer
+- non-participating observers can still cast protest votes
+	- protest reactions are hidden by default on the decision
+- decisions have a vote type
+	- concensus-unanimous
+	- compromise-rcv
+	- lazy-concensus
+	- threshold
+- decisions have an instant resolver
+- decisions can result in actions against a subject
+	- membership entry/eviction
+	- article locking/unlocking
+	- preemptive preservation of evidence
+	- de-ranking articles/groups/users
+	- hiding articles/groups/users
+	- removing articles/groups/users
+	- removing delegation
+	- changing documents
+	- enough mod report reaction votes -> triggers mod process
+- decisions voters make that change them individually are rare
+	- these require site admin approval
+		- negative examples: auto-eviction
+		- positive examples: group TOS
+	- voting isn't meant to be a punishment
+- notification of decision is configurable
+	- most legal decisions have delayed notification
+- actions can be:
+	- live
+		- some action triggers can't be
+		- some action triggers must be (preserving evidence)
+	- fully automatic at close
+	- click to approve
+	- fully manual (write notes)
+- list of actions
+	- defined by decision
+	- a watching decision
+	- parents: erzat provisions / relay breakers / virtual packages
+- in-site actions are reversable (with some side effects probably)
+- decisions are logged (but don't log who made the decision)
+- warning system:
+	- unanimity (group think)
+	- not recognizing disent
+	- shot down without alternative
+	- manufactured consent (debate of process document or selected document raised)
+	- vilifying others (CoC violation / recall of moderators)
+- mod decisions show
+	- previous reports against perpetrator
+	- previous reports by victim
+	- previous usages of the rule (choice template)
+	- mod wiki / guidelines
+	- timeline of actions against the perpetrator (some automated, some static)

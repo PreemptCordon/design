@@ -1,0 +1,32 @@
+- prepared statements
+- sanitize html during storage/display/email (only allow markdown)
+- linking tables
+	- follows
+	- delegation-inheritence
+	- category-inheritence
+	- decision-follows
+- vote tables
+	- karma (undeletable)
+	- mod related votes (private)
+	- argument related votes (public)
+- logs
+	- action logs (not views)
+	- edit logs
+- regions
+	- coordinates
+- events
+	- times
+- groups
+	- group parents, children, tag claim relations
+- reaction tags
+	- name
+	- description
+	- controlling entity
+- articles
+	- sections
+		- versions (can be permament if mod-flagged)
+- choice templates
+	- decisions
+		- options
+		- axis facets
+			- comparisons

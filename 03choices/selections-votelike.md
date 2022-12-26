@@ -1,0 +1,23 @@
+- vote-like (does not affect karma)
+	- concensus-unanimous
+		- yes
+		- yes, with concerns
+		- stand asside
+		- block (with reason)
+			- specify specific reason in group core document or choice template document - specific paragraph/section
+	- lazy concensus
+		- +1 (volunteering) - adds you into a pool
+		- +0 (not volunteering)
+		- -0 (no alternative)
+		- -1 (volunteering alternative) - requires you be the author of an alternative
+	- compromise-RCV
+		- record support
+		- record dissent
+		- warn on unanimity
+	- threshold
+		- +1 (closer to threshold)
+		- -1 (make threshold further away)
+	- no good options (marking that you want to change choice template)
+		- too binary (add another comparison axis)
+		- better of two evils (want third option)
+		- manufactured consent (debate choice template)

@@ -1,0 +1,7 @@
+- a draft is an unpublished markdown segment
+- drafts are listable per user
+- drafts are visible to the approvers of an edit
+- edit approval logic is based off a choice template:
+	- who's notified of an article edit (approvers)
+	- after approval the search index changes
+	- side-groups choose to approve the new version

@@ -1,0 +1,18 @@
+- the karma score result is public
+- forgiveness vs washing score
+	- karma decisions are rolling windows (to allow forgiveness)
+	- marks that aren't choice-rankings go towards karma (e.g., RCV/approvals don't affect it)
+	- multiple karma decisions go into the complete score
+	- deleted posts still count towards karma score (because reported posts are permanent, if not visible)
+- karma can impact someone's ability to do things
+	- karma effects require site admin approval
+	- karma-based permissions include group membership, rate limiting for repeated reports,
+	- karma amnesty via admins is possible (via formal appeal)
+- karma votable actions are not meant to be subscribable
+	- mass-reporting is reversable
+	- mute lists and block lists are allowed to be delegated actions
+- idea-proposals (not meant to be karma but a problem similar to it)
+	- established users can sometimes downrank newcomers
+- invite-karma / recommendation karma
+	- another user you promoted to a role abusing that role counts against you
+	- mods above you can partially forgive that

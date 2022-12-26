@@ -1,0 +1,50 @@
+- concensus
+	- address everyone's concerns - not let it pass if even at least one person opposes it
+- when it's not a good idea (before starting checks)
+	- when the group isn't cohesive / doesn't have a shared idea
+	- when there are no good choices
+	- when there's urgency (use [[compromise-vote]] instead)
+	- when it's trivial (delegate to team)
+	- when the arguments aren't fleshed out enough
+		- not enough data
+	- group size is greater than 20
+- during checks
+	- being pressured by time
+	- overuse of veto
+	- underuse of veto
+- process
+	- introduce and clarify issue
+	- open discussion
+	- explore ideas
+	- form proposal
+	- amend proposal
+	- test for agreement (blocks, stand-asides, reservations), 
+	- work out how to implement
+- positions
+	- agree (and will help implement)
+		- agree but don't see point
+		- agree with reservations/concerns
+		- stand aside (won't help make it)
+	- block
+		- blocking something should not be used lightly
+		- blocking could require more participation in a time process for additional meetings to raise the bar of blocking
+		- limit only on specific grounds,
+		- last resort vote system
+- large meetings
+	- lazy concensus
+		- could be an email
+		- if objections, goes into plenary
+	- plenary / opening meeting
+		- introduce point / findings
+		- selects groups for discussion
+	- small meetings (not deciding)
+		- representative decided
+		- discussion / nuance opened
+		- summary agreed by group
+		- rep goes to spoke meeting
+	- spoke meeting
+		- representative discusses all sides brought up by their group
+		- different representatives clarify nuance
+		- goes into concensus check
+	- concensus check
+		- survey for individuals / write cards

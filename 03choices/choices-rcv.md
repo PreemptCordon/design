@@ -1,0 +1,5 @@
+- http://www.chickennation.com/voting/
+- voting forces limited options (when you have limited time and limited resources)
+- online stuff can often simply be forked
+- plurality is different from majority
+- 

@@ -1,0 +1,23 @@
+- navbar: right, 1st
+- UI
+	- query
+	- filters
+	- ranking
+		- discovery
+	- results
+- transparency
+	- how your algorithm works
+	- how moderation affected your result
+- feedback
+	- precision (results there that shouldn't be?)
+	- recall (are there results missing?)
+- query entry
+	- attributes (must contain tag X)
+	- limit to
+
+
+- melisearch for text queries, custom attribute limitations in postgres
+	- [ ] postgres search https://supabase.com/blog/postgres-full-text-search-vs-the-rest
+	- [ ] melisearch https://github.com/meilisearch/meilisearch-vue https://github.com/meilisearch/meilisearch-go
+- index updates
+	- when edit is approved (no longer draft) - deletions are also edits

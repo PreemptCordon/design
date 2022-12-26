@@ -1,0 +1,2 @@
+- zombie (delegated) votes in lazy concensus are +0/-0
+- delegated votes never volunteer a zombie user (but they do volunteer the delegate)

@@ -1,0 +1,5 @@
+- configurable per category/wiki/group
+- reddit's works like this:
+	- comments from negative in-community karma collapsed
+	- new users & negative collapsed
+	- from people not in group collapsed

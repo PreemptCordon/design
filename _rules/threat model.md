@@ -1,0 +1,16 @@
+- consider
+	- privacy implications
+	- user agency implications
+	- search implications
+	- discovery implications
+	- moderation implications
+	- community health / game theory
+- specific attacks
+	- simple sabotage field manual https://en.m.wikisource.org/wiki/Simple_Sabotage_Field_Manual/Specific_Suggestions_for_Simple_Sabotage (how committees can gum things up)
+	- do-ocracies https://communitywiki.org/wiki/DoOcracy (when nobody's willing to do something unpleasant that's needed, "doing a task (you want to do) is in itself justification for you being the person who does that job")
+	- pernicious polarization (when a political cleavage self-reinforces) - political cleavages are normal, dissent is normal and usually fluid.
+- quotes / thoughts
+	- the surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently.
+	- something wrong has happened when you can't say a leader has done something wrong.
+	- being wrong doesn't feel like anything. realizing you're wrong does. we go through life thinking we're right, until we change our mind, and resume thinking we're right.
+

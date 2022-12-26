@@ -1,0 +1,19 @@
+- support OSMid?
+	- could pull admin groups from OSM for the initial creation? (national boundary=administrative + admin_level=2), subnational = admin_level=3 to 11, boundary=political)
+- group functions
+	- geographic
+		- contained-by (parent)
+		- contains (child)
+		- neighbors/distance
+		- no dual-residence of users by geographic object
+	- authoritative
+		- approval of parents/children is dual
+		- redress/escalation paths
+	- contact list / issue opening paths
+		- by nature of being in a group you gain access to certain other groups
+- support geojson
+	- lat/lon point mode
+	- area/region raster mode
+- regions are stakeholders via existing in a region (they're not shareholders by being on some team)
+- at-large, multi-member districts prefered
+- representative team size cubed root law

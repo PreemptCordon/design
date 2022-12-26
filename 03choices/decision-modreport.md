@@ -1,0 +1,35 @@
+- report started by victim
+	- victim notes (permanent - not visible to accused)
+		- attach evidence (preserves)
+	- live action
+		- de-rank search (before hide/remove decision by human)
+		- rate limit accused user's edits
+		- ignore list
+		- repeat COC violations immediate
+	- mod decides visibility
+		- are we legally prevented from notification
+		- will this mod decision be public or private
+	- which COC violation section are we referencing
+	- mod notes (permanent - not visible to either victim or accused)
+	- accused appeal (permanent - not visible to victim)
+	- mod action
+		- visibility of content (e.g., CSAM, DMCA, revenge porn, drugs, terrorism)
+		- loss of delegative authority
+		- loss of role
+		- reverse punishments
+	- feedback (from victim + accused)
+		- unfair result
+		- lazy mod
+		- escalation/redress (to parent group)
+- action log
+	- reporter role (not specific user)
+	- moderator role (not specific moderator)
+	- accused/impacting (exact user)
+
+- victim view
+	- starts off with when the report was created
+	- list of reports
+	- clarify reports
+	- view the mod wiki
+	- check the options that apply
+	- decide who to report it to

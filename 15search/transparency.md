@@ -1,0 +1,20 @@
+- [ ] search transparency (per result / sitewide view)
+	- downranking/calming factor (automatically applied during reports)
+		- category/reason for downranking, magnitude in result
+	- delisting/blocking (applied as reports are finalized)
+		- category/reason, potential search hits lost
+- [ ] search transparency (article/group/profile view)
+	- [ ] your content (mute/promote/demote)
+		- [ ] foo was requested
+		- [ ] foo was approved/applied
+		- [ ] foo was appealed/complained
+		- [ ] foo was removed
+		- [ ] foo was restored
+	- [ ] how much
+		- [ ] how often it would have been searched
+		- [ ] how often the term appeared on screens compared to others
+		- [ ] your other content in comparison
+	- [ ] general stats of search downranking
+		- [ ] stats of how much it impacted the search
+		- [ ] stats of appeals
+		- [ ] categories

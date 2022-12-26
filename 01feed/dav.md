@@ -1,0 +1,5 @@
+- per-event ICS
+- per group dav visibility (controlled by group)
+- personal URL of shared events (password protected)
+- calendar/date updates require mod approval (see wiki article attributes)
+- this is a news-like feed (articles by dates)

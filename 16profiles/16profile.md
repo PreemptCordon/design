@@ -1,0 +1,25 @@
+- navbar: right, #2
+- a wiki document that doesn't require groups to update it - just @user@domain
+- profiles are @user@domain fediverse IDs
+- interactions
+	- mute/unmute
+	- block/unblock
+	- follow/unfollow
+	- delegate/undelegate
+		- misnomer: delegation actually lives inside groups
+	- report
+		- reports actually live inside choices
+- groups in
+	- group -> role
+- activity
+	- follow (RSS)
+- profile
+	- bio
+	- keyoxide
+	- mastodon rel=me proof
+	- external links
+	- key-attribute values
+- privacy
+	- profile visibility
+	- profile discoverability opt-in
+	- decision discovery data opt-in

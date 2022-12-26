@@ -1,0 +1,5 @@
+- fair speech (speech that doesn't cause harm) vs free speech (which allows hate speech)
+- incentive (game theory wise) to do the right thing (itterated prisoners dilemna/karma)
+- conformity can prevent free expression. embrace positive deviance
+	- don't let authoritarians silence your dissent
+	- don't be fooled into thinking everyone believes some tradition
