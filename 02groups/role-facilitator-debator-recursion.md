@@ -1,0 +1,11 @@
+as you go down a tree some teams/roles look like one or the other
+- site team (facilitator)
+	- individual admins (debator)
+	- region (debator)
+		- region team (facilitator)
+			- individual mods (debator)
+		- region communities (debator)
+			- team admins (facilitator)
+				- individual admins (debator)
+			- team members
+- 

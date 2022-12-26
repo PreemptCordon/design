@@ -1,0 +1,6 @@
+- stickies (sticky wiki, choice templates, decisions,)
+- promote group heterophily, avoid homophily/cliques/insular
+	- in new choice wizard, promote options for having other groups contribute vote options (not other regions but other advocacy groups)
+- new issues page is like a town hall / hearing
+	- voice your thoughts on a specific issue
+	- allow people to ask questions

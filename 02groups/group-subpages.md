@@ -1,0 +1,10 @@
+- wiki
+- categories
+- subgroups/subregions
+- parent groups/regions
+- contact a team (raise an issue)
+- roles / volunteer
+- choices
+- decisions
+- search
+- discover

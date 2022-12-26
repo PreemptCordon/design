@@ -1,44 +1,9 @@
 - navbar: left (#2)
-- types
-	- site-wide
-		- control: site admins
-		- representation: moderators
-		- citizenship: instance users
-	- region-like
-		- usually represented by cubed-root x 1.6
-		- very authoritative
-		- more lax in moderation / style
-	- community-like
-		- very open to cross-region members
-		- very cohesive in purpose/moderation
-	- team-like (usually have parent community)
-	- delegation (groups you've given power to make decisions)
-- moderaters are ex-officio members of groups in observer (not participant) roles
-	- parent moderators can remove/reverse decisions by bad mod teams
-	- hardcoded server mod (unless you move servers)
 - teams composed of [roles](roles.md)
 	- roles have short commitment but long karma tail
-- stickies (sticky wiki, choice templates, decisions,)
-- promote group heterophily, avoid homophily/cliques/insular
-	- in new choice wizard, promote options for having other groups contribute vote options (not other regions but other advocacy groups)
-- new issues page is like a town hall / hearing
-	- voice your thoughts on a specific issue
-	- allow people to ask questions
 - groups are @@group (group: in wiki)
-- subpages
-	- wiki
-	- categories
-	- subgroups/subregions
-	- parent groups/regions
-	- contact a team (raise an issue)
-	- roles / volunteer
-	- choices
-	- decisions
-	- search
-	- discover
-- community too small?
-	- abandonment/merging
-	- cooperation with other communities
-- community too big?
-	- adding structure to communities
-	- adding teams
+- [[group-types]]
+- [[group-sizes]]
+- [[group-subpages]]
+- [[group-health]]
+- [[mod-chain]]

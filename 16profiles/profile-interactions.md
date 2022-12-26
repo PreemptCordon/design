@@ -1,0 +1,9 @@
+- mute/unmute
+- block/unblock
+- follow/unfollow
+- delegate/undelegate
+	- misnomer: delegation actually lives inside groups
+		- tag to whom/how long
+	- mute delegation
+- report
+	- reports actually live inside choices

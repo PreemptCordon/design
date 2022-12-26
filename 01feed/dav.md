@@ -3,3 +3,6 @@
 - personal URL of shared events (password protected)
 - calendar/date updates require mod approval (see wiki article attributes)
 - this is a news-like feed (articles by dates)
+- actions against you / affecting you
+- position start/stop dates (combined or separate - if separate events reference each other)
+- 

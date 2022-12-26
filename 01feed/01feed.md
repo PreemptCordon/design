@@ -1,26 +1,5 @@
 - navbar: left (1st)
-- filtering
-	- things you're following
-	- groups you're a part of
-	- things you haven't muted
-- open protocols
-	- view/edit RSS feeds
-	- view/edit DAV feeds
-		- mod actions
-	- view/edit mastodon feeds
-- ranking
-	- reverse cron
-	- random follow deck interleve
-	- upcoming deadlines
-	- importance of document
-	- feed-rank
-	- comment-rank
-	- filter by category/group
 
 misnomers:
-- mod actions live in decisions
+- mod actions live in decisions (but notifications are in feed)
 - @'s go towards roles/teams (as decision documents) - what you want someone to do - based on a template
-- compose
-	- new wiki article
-	- new group
-	- new choice

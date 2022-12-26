@@ -11,7 +11,7 @@
 	- violation appeal (wiki section)
 	- violation response (wiki section)
 - sometimes notifies them
-- consent / health
+- consent / health (did the choice feel coerced)
 	- choice process explained (e.g. RCV vs concensus)
 	- decision category explained (what this deals with in our group)
 	- options explained (enough information to make autonomous decision)

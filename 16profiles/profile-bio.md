@@ -1,0 +1,5 @@
+- bio
+- keyoxide
+- mastodon rel=me proof
+- external links
+- key-attribute values

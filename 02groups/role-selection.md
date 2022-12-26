@@ -1,0 +1,9 @@
+- types
+	- assignment (when nobody will do it but it has to be done)
+	- volunteering (roles are usually selected not defaulted, counter to this is the do-ocracy)
+	- election
+	- sortion (random assignment) - some way to be fair about recent assignments
+- you can chain these into pools (a committee might be chosen randomly to approve a set of volunteers)
+- considerations
+	- mod team delegates authority
+	- user affirms duty of attention

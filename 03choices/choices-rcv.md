@@ -2,4 +2,4 @@
 - voting forces limited options (when you have limited time and limited resources)
 - online stuff can often simply be forked
 - plurality is different from majority
-- 
+- RCV can use delegated votes (this is per-choice configurable)

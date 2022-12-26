@@ -1,0 +1,13 @@
+- site-wide
+	- control: site admins
+	- representation: moderators
+	- citizenship: instance users
+- region-like
+	- usually represented by cubed-root x 1.6
+	- very authoritative
+	- more lax in moderation / style
+- community-like
+	- very open to cross-region members
+	- very cohesive in purpose/moderation
+- team-like (usually have parent community)
+- delegation (groups you've given power to make decisions)

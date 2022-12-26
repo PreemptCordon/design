@@ -1,0 +1,6 @@
+- discussion pages
+- drafts
+- versions
+- alternates
+- backlinks
+- categories

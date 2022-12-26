@@ -1,0 +1,8 @@
+- facilitators
+	- usually admin-like
+- debators
+	- usually proposing edits
+- voters
+	- picking those edits
+- observers
+	- observers might not have power but can make personal petitions/groups that broader groups might eventually consider legitimate

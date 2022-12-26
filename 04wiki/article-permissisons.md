@@ -1,0 +1,6 @@
+- article visibility is configurable (public, group, private)
+- locked edits
+- privacy redactions
+- articles have a main maintaining group (usually inherited)
+	- but linking articles can continue using old versions / have to approve accepting the new edits
+		- they can of course delegate this to the maintaining group

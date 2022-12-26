@@ -1,0 +1,11 @@
+- typical use: teams (5-7-ish, 10-30-ish)
+	- rotating leaders (tie breaker)
+	- goals / minimize free riding (ringelmann effect/social loafing) - increase identifiability
+	- contacts for higher up teams / lower teams
+- representatives (cubed root x 1.66)
+- community too small?
+	- abandonment/merging
+	- cooperation with other communities
+- community too big?
+	- adding structure to communities
+	- adding teams

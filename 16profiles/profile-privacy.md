@@ -1,0 +1,3 @@
+- profile visibility
+- profile discoverability opt-in
+- decision discovery data opt-in

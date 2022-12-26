@@ -1,0 +1,10 @@
+- per article parent
+	- feed sort
+	- comment sort
+	- search sort
+- sort choices
+	- feed-rank
+	- comment-rank
+	- recommend-rank
+	- reverse-chron-rank
+	- one-each-rank

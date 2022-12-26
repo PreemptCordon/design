@@ -1,0 +1,4 @@
+- article license
+- articles may reference a date/time (e.g. for a decision) - dates require mod approval before they appear on calendars
+- articles may reference a region/location (e.g. for a group) - requires mod approval
+- language prefixes (/en/, /en-gb/), link rel alternate hreflang=en-au, hreflang=x-default

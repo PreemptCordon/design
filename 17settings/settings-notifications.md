@@ -1,0 +1,19 @@
+- method
+	- email
+	- browser
+- frequency
+	- daily
+	- weekly
+- by category
+	- new blank created
+	- decisions impacting me depending on how I answer
+	- community health warning - call to debate
+	- community health warning - zombie wakeups
+
+	- actions affecting you (mod decisions, search demote report, option reports,)
+		- mod decisions are private, actions against you are usually visible to you
+		- option to appeal is present
+		- who raised it is not visible to you
+	- decision notification
+		- alternative proposed
+		- notify of backlinks

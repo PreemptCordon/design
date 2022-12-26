@@ -1,0 +1,8 @@
+- storage use (DB, S3, search) (compute vs storage)
+- download
+- modify
+	- non-modifiable data (mod reports, accepted contributions)
+- deletion dehydration flow
+	- immediate delete DB except legal preserved
+		- immediate search update
+	- S3 deletion job queued (give time for user to recover)

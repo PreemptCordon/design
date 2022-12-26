@@ -1,16 +1,20 @@
 - username federation
-- group following
+	- post edit notification
+	- support webmention?
+- following
+	- group following
+	- follow tags
 - choice voting (on supported clients)
 - .well-known/activitypub/server - json object
 - .well-known/activitypub/support (fediverse id, email_address, role, array, support page)
-- follow tags
 - wiki-based full text search (not exactly federated search)
-- post edit notification
-- support webmention?
 - account transfer process
 - site mod decisions aren't dislosed via activitypub (web only)
 	- group mod decisions can function across it
-- 
+- limited instances
+	- silence instances
+	- suspend instances
+- relays
 
 
 - zot6/hubzilla/socialhome/nomad

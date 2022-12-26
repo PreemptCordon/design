@@ -1,3 +1,5 @@
 - list of mods administering you
 - list of mods you administer
-- 
+- moderaters are ex-officio members of groups in observer (not participant) roles
+	- parent moderators can remove/reverse decisions by bad mod teams
+	- hardcoded server mod (unless you move servers)

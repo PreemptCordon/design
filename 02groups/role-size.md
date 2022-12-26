@@ -1,0 +1,9 @@
+- filling out role positions / too scarce?
+	- area/subject heros (wiki admins)
+	- moderators (facilitators for reports)
+	- decision builders (facilitators/admins)
+	- topic arguers (debaters)
+- too many people?
+	- too many people in a role reduces visibility
+	- split role into different teams
+	- 
