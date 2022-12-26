@@ -7,6 +7,10 @@
 - wiki-based full text search (not exactly federated search)
 - post edit notification
 - support webmention?
+- account transfer process
+- site mod decisions aren't dislosed via activitypub (web only)
+	- group mod decisions can function across it
+- 
 
 
 - zot6/hubzilla/socialhome/nomad
