@@ -1,7 +1,8 @@
 # Preempt Cordon - design
-![[logo.png](./logo.png)]
-
 > "A fediverse site for having arguments on the internet, without spending all your time having arguments on the internet"
+![logo.png](./logo.png)
+(logo feedback appreciated)
+
 
 - why?
 	- abilene paradox, tactical voting, duvergers law
