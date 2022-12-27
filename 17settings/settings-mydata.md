@@ -1,5 +1,9 @@
 - storage use (DB, S3, search) (compute vs storage)
 - download
+	- your content
+	- your reactions/choices
+	- your muted/blocked
+	- your followed/delegated
 - modify
 	- non-modifiable data (mod reports, accepted contributions)
 - deletion dehydration flow

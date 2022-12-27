@@ -1,3 +1,5 @@
 - if an article references another element, the author of the other element can be notified of the backlink
 - display backlinks (hidden section vs unhidden)
-- links have rel noreferrer
+- external links
+	- links have rel noreferrer
+	- links sent to archive.org

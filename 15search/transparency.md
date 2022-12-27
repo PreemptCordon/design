@@ -3,6 +3,20 @@
 		- category/reason for downranking, magnitude in result
 	- delisting/blocking (applied as reports are finalized)
 		- category/reason, potential search hits lost
+- search is ran both with and without the mod factor
+	- this is available for the searcher
+	- and for the article writer
+- we don't track view counts, so it's really only search counts
+	- you can still see boost / retoot / follow counts
+- fraction of weight
+	- mod transparency
+		- a mod had (realized reports)
+		- an automated system had (pending reports)
+	- vs user ranking weight (split below)
+	- takes longer to calculate:
+		- your friends had (in-groups)
+		- neutral users had (folks not identifiably on either side of your friend graph)
+		- your enemies had (e.g. blocks, avoiding conflict)
 - [ ] search transparency (article/group/profile view)
 	- [ ] your content (mute/promote/demote)
 		- [ ] foo was requested

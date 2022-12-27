@@ -10,6 +10,10 @@
 - wiki-based full text search (not exactly federated search)
 - account transfer process
 - site mod decisions aren't dislosed via activitypub (web only)
+	- Site wide mod visibility is a restriction on viewers (to instance-users only) is how that works
+		- most DMCA / Legal complaints work that way
+		- a similar notifications restriction mostly only applies to LEO holds
+		- the complainer can have an account at another location or be an anonymous IP guest
 	- group mod decisions can function across it
 - limited instances
 	- silence instances

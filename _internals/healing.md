@@ -1,0 +1,9 @@
+- objects that can heal
+	- ACLs (most privileged user promote, most karma promote)
+	- group ownership (at least one admin, or parent group admin role owns it)
+	- articles
+	- profiles (base article for profile/group must always exist)
+	- choice-flow stability (a choice flow is always live)
+- healing logs
+- healing is delayed (compared to live actions)
+- 

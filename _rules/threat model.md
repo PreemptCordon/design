@@ -13,4 +13,10 @@
 	- the surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently.
 	- something wrong has happened when you can't say a leader has done something wrong.
 	- being wrong doesn't feel like anything. realizing you're wrong does. we go through life thinking we're right, until we change our mind, and resume thinking we're right.
+- problems/prizes
+	- jude wanniski two santa claus theory
+	- permanent fixes not dog chasing car
+	- strain theory
+	- itterative game theory with reputation
+	- discontinuity effect
 

@@ -1,0 +1,3 @@
+- contact/open survey forms don't require accounts
+- they do have per-IP ratelimits
+- bans can be per ASN

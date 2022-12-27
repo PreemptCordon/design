@@ -23,13 +23,14 @@
 - positions
 	- agree (and will help implement)
 		- agree but don't see point
-		- agree with reservations/concerns
+		- agree with reservations/concerns (comments)
 		- stand aside (won't help make it)
 	- block
 		- blocking something should not be used lightly
 		- blocking could require more participation in a time process for additional meetings to raise the bar of blocking
-		- limit only on specific grounds,
+		- limit only on specific grounds (link to choice template wiki or to group mission wiki, link to specific section)
 		- last resort vote system
+		- must present option (in most cases)
 - large meetings
 	- lazy concensus
 		- could be an email

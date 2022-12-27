@@ -6,9 +6,9 @@ basically, "find a subreddit", "people in X are often in Y"
 
 the discovery search is slower because it's per-user ranked - it's a type of ranking, not a type of search (though a blank query is possible)
 
-a special exception is the moderator bully-victim search.
-this pulls up cases where a particular user is being harrassed excessively by someone else.
+this is different from the site-configurable meter decisions
 
+immediate sql or redis table or golang channels
 
 - discovery template (a saved search)
 	- template name
@@ -37,3 +37,4 @@ this pulls up cases where a particular user is being harrassed excessively by so
 	- invite-only system
 		- affect inviter's karma if abused
 	- rate-limited token bucket
+		- rate limit for discover must be approved by site admins

@@ -1,0 +1,7 @@
+- show previous runs of a choice
+- mod decisions show
+	- previous reports against perpetrator
+	- previous reports by victim
+	- previous usages of the rule (choice template)
+	- mod wiki / guidelines
+	- timeline of actions against the perpetrator (some automated, some static)

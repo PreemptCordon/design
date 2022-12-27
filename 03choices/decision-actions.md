@@ -1,0 +1,23 @@
+- immediacy
+	 - live
+		- some action triggers can't be
+		- some action triggers must be (preserving evidence)
+	- fully automatic at close
+	- click to approve
+	- fully manual (write notes)
+- sources
+	- defined by decision
+	- a watching decision
+	- parents: erzat provisions / relay breakers / virtual packages
+- in-site actions are reversable (with some side effects probably)
+- decisions are logged (but don't log who made the decision)
+- decisions can result in actions against a subject
+	- membership entry/eviction
+	- article locking/unlocking
+	- preemptive preservation of evidence
+	- de-ranking articles/groups/users
+	- hiding articles/groups/users
+	- removing articles/groups/users
+	- removing delegation
+	- changing documents
+	- enough mod report reaction votes -> triggers mod process

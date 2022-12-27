@@ -3,3 +3,4 @@
 - conformity can prevent free expression. embrace positive deviance
 	- don't let authoritarians silence your dissent
 	- don't be fooled into thinking everyone believes some tradition
+- temp actions are just auto-reactions. mods should always prefer banning nazis, not putting them in time-out (it's a twilight reaction)

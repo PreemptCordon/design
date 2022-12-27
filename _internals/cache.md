@@ -9,6 +9,15 @@
 	- invite codes
 	- recovery codes
 - token buckets (surge protectors)
+	- tracked entities
+		- users
+		- IPs
+	- concerned entities
+		- articles
+		- invites
+	- multipliers
+		- links per article
+		- immediate karma change of those you invite
 	- edit buckets (per article configurable)
 		- per-article-user
 		- penalty based on amount of links in article

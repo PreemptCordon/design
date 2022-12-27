@@ -1,0 +1,94 @@
+#todo
+- accounts
+	- [ ] registration, sign in, sign out, recovery, deletion
+- documents/wiki
+	- [ ] section versioning
+	- [ ] per-section editors
+	- [ ] parent category
+	- [ ] managing group
+	- [ ] approval process trigger
+	- [ ] sections can be programatic (like specific modications)
+		- [ ] old objects don't immediately use new logic
+- groups
+	- [ ] group memberships
+	- [ ] tag/category ownership
+	- [ ] subgroups (via ownership of subcategory)
+	- [ ] visibility vs decision reactions (decision to report a post is site-wide enabled)
+	- [ ] group wiki
+	- [ ] group vote ability (by role)
+- vote
+	- wiki links
+		- [ ] overall process document
+		- [ ] this specific decision
+			- [ ] wiki links to option proposals
+		- [ ] wiki links to axis/facet considerations
+			- [ ] links to counter proposal rating of each facet
+	- vote styles
+		- [ ] concensus-unanimous
+		- [ ] compromise-RCV
+		- [ ] lazy-apache
+		- [ ] threshold (2-man-rule) - inverse concensus
+	- option adding
+		- [ ] group allowed to add options
+		- [ ] options are sections (per section authors can be groups)
+		- [ ] minimum threshold for option to be added (similar to draft)
+		- [ ] mod approval of option-delegation threshhold
+		- [ ] section in-group edit approval, requires concensus approval from other option groups (meaning has changed) or threshold from admins (if votes have already started)
+		- [ ] if option approves a specific trigger change
+	- user selections
+		- [ ] RCV
+	- decision composition
+		- [ ] pick mod group (facilitator) of election
+		- [ ] pick option proposing group
+		- [ ] pick voting proposing group
+		- [ ] link to wikis
+		- [ ] deadline (last vote / action start)
+		- [ ] next action (enable/disable)
+		- [ ] notification flow
+	- decision type templating
+		- [ ] flow design
+		- [ ] process wiki
+- mod
+	- [ ] mod decision trees (report buttons trigger votes)
+		- [ ] prevent users from preventing report vote?
+			- [ ] sitereport:dmca isn't hidable/disableable by team admins
+		- [ ] preemptive actions
+			- [ ] downrank/hide
+			- [ ] ignores (for users that are reported repeatedly maliciously)
+			- [ ] preserve S3 / prevent deletion of specific content
+			- [ ] rate limit enable
+		- [ ] process document for the specific report
+		- [ ] notification flow (disabled/delayed, immediate, vague)
+		- [ ] votes for this decision
+		- [ ] enabled action (remove privileges, remove content, )
+		- [ ] user appeal process
+		- [ ] meta-moderation
+			- [ ] meter alarms
+	- rate limits
+		- [ ] link detection auto-ratelimit
+		- [ ] frequently-edited document auto-ratelimit
+		- [ ] invite rate limit
+- search
+	- [ ] obey per-post privacy
+	- [ ] obey blocks
+	- [ ] don't include drafts
+	- [ ] scope distance (to semantic tags)
+	- [ ] binary (and/xor/or)
+- feed
+	- [ ] RSS
+	- [ ] email notifications
+	- [ ] browser notifications
+	- [ ] user-configured ranking (feed vs comments)
+	- [ ] watched docs
+	- [ ] feed ranking (chronological-rank, feed-rank, comments-rank, recommend-rank, one-each-rank)
+- delegation
+	- [ ] article/category/ad-hoc delegation
+- user-configured discovery (slower than search)
+	- [ ] opt-in community/user visibility
+	- [ ] opt-in preference considerations
+	- [ ] similarity proximity filters
+	- [ ] mod hazard alarm (if filtering to enemy groups and then causing a lot of mod activity)
+- cryptography
+	- [ ] private votes (via private group membership/ring cryptography) - why? allow people to be who they really are (collective illusion problem)
+		- [ ] edits/proposals aren't private (since they do more damage than votes)
+		- [ ] delegation isn't private (the zombies are, the representative isn't)

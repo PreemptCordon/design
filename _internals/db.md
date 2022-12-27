@@ -6,16 +6,19 @@
 	- category-inheritence
 	- decision-follows
 - vote tables
-	- karma (undeletable)
+	- karma-related (undeletable)
 	- mod related votes (private)
 	- argument related votes (public)
 - logs
 	- action logs (not views)
 	- edit logs
+- karma resolver
+	- rotating-epochs
 - regions
-	- coordinates
-- events
+	- coordinates (for region picking, not user tracking)
+- events (for dav rendering)
 	- times
+	- object ACLs
 - groups
 	- group parents, children, tag claim relations
 - reaction tags

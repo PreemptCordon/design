@@ -1,0 +1,4 @@
+- do you have problems feeling like your viewpoint is understood or taken seriously - what would help get your point across
+- do you have problems constantly checking in? what would help you log off?
+- are the algorithm choices fair? should we hardcode prevent certain ones?
+- 

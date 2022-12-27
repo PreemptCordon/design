@@ -5,3 +5,4 @@
 	- who's notified of an article edit (approvers)
 	- after approval the search index changes
 	- side-groups choose to approve the new version
+- minor edit (no comment) vs edit with comment

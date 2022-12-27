@@ -1,3 +1,4 @@
 - zombie (delegated) votes in lazy concensus are +0/-0
 - delegated votes never volunteer a zombie user (but they do volunteer the delegate)
 - silence proceedure / tacid acceptance / acquiescence / passive assent / warnock's dilemma / non-response comes into play
+- -1 must mean proposing an alternative vote
