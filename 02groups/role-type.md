@@ -1,8 +1,12 @@
 - facilitators
 	- usually admin-like
+	- moderating a decision / impartial
 - debators
 	- usually proposing edits
+	- experts / volunteering to make something
 - voters
 	- picking those edits
+	- try to be stakeholders in a decision
 - observers
 	- observers might not have power but can make personal petitions/groups that broader groups might eventually consider legitimate
+	- people the facilitator didn't let decide but the site-admins let react

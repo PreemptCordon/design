@@ -1,3 +1,5 @@
+the app doesn't have a calendar view itself. it shares a DAV/ICS that you can use elsewhere.
+
 - per-event ICS
 - per group dav visibility (controlled by group)
 - personal URL of shared events (password protected)

@@ -1,3 +1,11 @@
+previously called "meters" or "meter decisions"
+
+monitors evaluate selections & reactions, in the following ways:
+
+- if delegated users haven't made a selection for a user, notify them to vote manually
+- if reactions are enough to trigger a mod notification, notify mods
+- when the decision time is up, trigger the actions of the option that won
+
 these are circuitbreakers for issues. They're different from discovery (which is per user) and are meant for mods to keep things in control
 
 - meter decisions do hook into votes & evaluate instantly (like the vote resolver)

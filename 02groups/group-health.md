@@ -4,3 +4,9 @@
 - new issues page is like a town hall / hearing
 	- voice your thoughts on a specific issue
 	- allow people to ask questions
+- different vote types have different kinds of health
+	- concensus: constant blocking might mean someone isn't right for the group
+	- RCV: constantly having an overwhelming majority without several options might mean dissent isn't welcomed
+	- lazy concensus: constant -0's without volunteering alternatives, constant +0's without enough +1's.
+	- threshold: two admins repeatedly hitting yes while others report them for it
+	- generally whether the meta-moderation flow was triggered

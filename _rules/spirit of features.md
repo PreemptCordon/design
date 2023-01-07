@@ -4,3 +4,5 @@
 	- don't let authoritarians silence your dissent
 	- don't be fooled into thinking everyone believes some tradition
 - temp actions are just auto-reactions. mods should always prefer banning nazis, not putting them in time-out (it's a twilight reaction)
+- consequences for what you say (don't be a dick), not consequences for what you vote (constructive disagreement okay)
+- 

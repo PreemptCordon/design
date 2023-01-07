@@ -4,10 +4,13 @@
 	- citizenship: instance users
 - region-like
 	- usually represented by cubed-root x 1.6
-	- very authoritative
+	- very authoritative in a subject matter / physical location
 	- more lax in moderation / style
 - community-like
 	- very open to cross-region members
 	- very cohesive in purpose/moderation
+	- as long as the name's free, basically
 - team-like (usually have parent community)
+	- small role groups work this way (mod teams, facilitator teams, topic curators,)
 - delegation (groups you've given power to make decisions)
+	- often might not know or care, or forget that you assigned them
