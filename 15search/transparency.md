@@ -13,10 +13,13 @@
 		- a mod had (realized reports)
 		- an automated system had (pending reports)
 	- vs user ranking weight (split below)
-	- takes longer to calculate:
+	- takes longer to calculate: (uses the discovery ranking system)
 		- your friends had (in-groups)
 		- neutral users had (folks not identifiably on either side of your friend graph)
 		- your enemies had (e.g. blocks, avoiding conflict)
+		- show that graph over time for the mean / SD of whether someone would say it on a particular view
+			- show the mean reaction (of each group to you)
+			- show this specific reaction (of each group to you)
 - [ ] search transparency (article/group/profile view)
 	- [ ] your content (mute/promote/demote)
 		- [ ] foo was requested

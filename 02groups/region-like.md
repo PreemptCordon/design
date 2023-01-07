@@ -17,3 +17,4 @@
 - regions are stakeholders via existing in a region (they're not shareholders by being on some team)
 - at-large, multi-member districts prefered
 - representative team size cubed root law
+- composed of all stakeholders of a decision (even if they're not a cohesive group or under the same moderators)

@@ -88,7 +88,7 @@
 	- [ ] opt-in preference considerations
 	- [ ] similarity proximity filters
 	- [ ] mod hazard alarm (if filtering to enemy groups and then causing a lot of mod activity)
-- cryptography
+- cryptography - out of scope?
 	- [ ] private votes (via private group membership/ring cryptography) - why? allow people to be who they really are (collective illusion problem)
 		- [ ] edits/proposals aren't private (since they do more damage than votes)
 		- [ ] delegation isn't private (the zombies are, the representative isn't)

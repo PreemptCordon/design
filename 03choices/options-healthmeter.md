@@ -4,3 +4,5 @@
 	- being able to agree with moderates a certain distance from those you disagree with is a good sign
 	- splintering: all issues are multi-faceted, a single group/team can't represent all elements of your personality
 	- grouping: you also might have stuff in common with a group you normally dislike
+- alarm when recommendation for concensus team is always blocked, alarm for when RCV is too single-sided
+- monitors cause soft actions, mods to the final ban
