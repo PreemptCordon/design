@@ -11,8 +11,13 @@
 	- a group with enough resources splitting off to become Y group
 - karma here expires (on a sliding window), and that cuts both ways
 	- super-positive karma folks who become inactive lose karma
+		- this is important because newcomers might lack the karma compared to super-entrenched folks
 	- folks who had bad karma in the past, and changed, can redeem karma
+		- deleting/washing your posts doesn't remove negative karma. it mostly removes positive karma.
+		- mod reports / legal report karma effects aren't removable. They're part of whether you're enough trouble to ban / part of security.
 	- site mods can forgive wrongful karma
+		- e.g., malicious reports by a specific user
+		- filters to mute reports against a targeted account
 - you can use karma and monitors to limit / traffic control interactions with your group or your wikis.
 	- e.g. low karma for X reason (flamebaiting, the whole category trolling, etc)
 - mod appeals
